@@ -1,0 +1,4 @@
+name: Main
+version: 0.1.0
+main: fr.undercraft.tab.Main
+api-version: 1.12.2
