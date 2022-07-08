@@ -1,4 +1,6 @@
-name: Main
-version: 0.1.0
+name: UnderTab
+version: 1.0.1
+author: [ MikaM06,Kaplego ]
 main: fr.undercraft.tab.Main
+website: www.undercraft.fr
 api-version: 1.12.2
