@@ -28,7 +28,7 @@ public class PlayerEvents implements Listener {
         playerList.updateSlot(60,"Top right");
         playerList.updateSlot(79,"Bottom right");
 
-        playerList.setHeaderFooter(ChatColor.GOLD+"Welcome","Test Message");
+        playerList.setHeaderFooter(ChatColor.COLOR_CHAR+"§7§m-§r §bVous jouez sur §4§lUndercraft Mars§r §7&m-"+"",""+"§ewww.undercraft.fr");
     }
 
     @EventHandler
